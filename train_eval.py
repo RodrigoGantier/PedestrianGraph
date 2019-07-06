@@ -262,7 +262,7 @@ def main():
     toc = time.time()
     print('---------------------------------------------------------------------------')
     print('\n')
-    print('Final accuracy: {}, Each sample took: {} seg, All (124) took: {} seg'.format(result, (toc - tic) / 124, toc - tic))
+    print('Final accuracy: {}, Each sample took: {} sec, All (124) took: {} sec'.format(result, (toc - tic) / 124, toc - tic))
     print('\n')
     print('---------------------------------------------------------------------------')
 
