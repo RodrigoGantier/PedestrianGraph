@@ -3,7 +3,7 @@
 
 This page hosts the code for "Pedestrian Graph" algorithm for crossing pedestrian prediction, as presented in our paper:
 
-    Pedestrian Graph: Pedestrian Crossing Prediction Base on 2D Pose Estimation and Graph Convolutional Networks;
+    Pedestrian Graph: Pedestrian Crossing Prediction Based on 2D Pose Estimation and Graph Convolutional Networks;
     Pablo Rodrigo Gantier Cadena, Ming Yang, Yeqiang Qian and Chunxiang Wang;
 
 The full paper is available at: soon. 
