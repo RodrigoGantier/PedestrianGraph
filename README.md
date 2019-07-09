@@ -69,11 +69,12 @@ The command are as follow:
 ## Citations
 Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follows.
 ```
-@article{Gantier2019PedestrianGraph,
-  title   =  {{Pedestrian Graph}: Pedestrian Crossing Prediction Base on 2D Pose Estimation and Graph Convolutional Networks},
-  author  =  {Pablo Rodrigo Gantier Cadena, Ming Yang, Yeqiang Qian and Chunxiang Wang},
-  journal =  {ITSC2019},
-  year    =  {2019}
+@inproceedings{Gantier2019PedestrianGraph,
+  title={Pedestrian Graph: Pedestrian Crossing Prediction Base on 2D Pose Estimation and Graph Convolutional Networks},
+  author={Gantier Cadena, Pablo Rodrigo and Yang, Ming and Qian, Yeqiang and Chunxiang Wang},
+  booktitle={2019 22st International Conference on Intelligent Transportation Systems (ITSC)},
+  year={2019}
+  organization={IEEE}
 }
 ```
 
